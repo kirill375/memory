@@ -22,7 +22,7 @@ body {
     height: 200px;
     margin: 10px;
     border: 1px solid;
-    box-sizing: border-box;
+
 
 
 }
@@ -42,6 +42,5 @@ img {
 
 .show {
     opacity: 1;
-
-
+    ы
 }
